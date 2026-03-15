@@ -10,7 +10,8 @@ Ime i prezime: ELma Đonlić
 GitHub username: elmadonlic
 
 ---
-
+## Uvod
+Ja sam studentica na Fakultetu elektrotehnike u Tuzli. Trenutno radim na zadatku iz predmeta Razvoj telekomunikacijske podrške. Učim kako da koristim Git.  
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
